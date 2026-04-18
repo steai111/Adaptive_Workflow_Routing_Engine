@@ -54,11 +54,7 @@ The system operates as a modular inbound-request orchestration workflow:
 8. Supabase stores request metadata, status history, and route history.
 9. Logs preserve operational traceability.
 
-## Architecture diagrams
-
-### Vertical Architecture View
-
-![Adaptive Workflow Routing Engine Vertical](./N8N_Architecture_Vertical.png)
+## Architecture diagram
 
 ### Horizontal Architecture View
 
